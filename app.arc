@@ -11,6 +11,7 @@ runtime typescript # sets TS as the the default runtime for your entire project
 
 @plugins
 architect/plugin-typescript
+copy-static-json-to-build
 
 @typescript
 esbuild-config esbuild-config.js
