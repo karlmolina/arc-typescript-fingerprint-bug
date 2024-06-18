@@ -1,0 +1,16 @@
+{
+  "name": "arc-typescript-fingerprint-bug",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^11.0.13",
+    "@architect/plugin-typescript": "^2.1.0"
+  },
+  "dependencies": {
+    "@architect/functions": "^8.1.6",
+    "@types/architect__functions": "^3.13.11"
+  }
+}
